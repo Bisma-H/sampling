@@ -131,7 +131,7 @@ d) Widowed
 a) Elementary 
 b) High school
 c) Bachelors
-d) Masters/PhD/DOctorate
+d) Masters/PhD/Doctorate
 e) Other
 
 10. What is your race/ethnicity?
@@ -149,10 +149,7 @@ Identify and describe survey features:
 
 This is a sample survey with a cross-sectional design. The sample is based on a stratified design employing probability sampling. 
 
-GSS uses a two-stage sampling design. The sampling units are the groups of telephone numbers. The final stage units are individuals within the identified households. Note that GSS only selects one eligible person per household to be interviewed.
-
-Stratification method:
-In order to carry out sampling, the ten provinces of the target population are divided into strata
+GSS uses a two-stage sampling design. The sampling units are the groups of telephone numbers. The final stage units are individuals within the identified households. Note that GSS only selects one eligible person per household to be interviewed. In order to carry out sampling, the ten provinces of the target population are divided into strata.
 
 2. Sample size
 
